@@ -22,7 +22,7 @@ public class StandAloneTest {
 	{
 		
 		// TODO Auto-generated method stub
-		
+		// new commits are added
 		
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();

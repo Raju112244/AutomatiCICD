@@ -1,0 +1,8 @@
+rahlshettyacademy\pageobject\CartPage.class
+rahlshettyacademy\pageobject\ConfirmationPage.class
+rahlshettyacademy\pageobject\OrderPage.class
+rahulshettyacademy\resources\ExtentReporterNG.class
+rahulshettyacademy\AbstractComponents\AbstractComponent.class
+rahlshettyacademy\pageobject\LandingPage.class
+rahlshettyacademy\pageobject\CheckoutPage.class
+rahlshettyacademy\pageobject\ProductCatalogue.class
